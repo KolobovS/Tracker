@@ -1,0 +1,9 @@
+<UIView; frame = (0 0; 393 852); autoresize = W+H; backgroundColor = <UIDynamicCatalogColor; name = ypWhite>; layer = <CALayer>>
+   | <UILabel; frame = (131.333 27; 130.333 19.3333); text = 'Новая категория'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   | <UITextField; frame = (16 84.3333; 361 75); opaque = NO; gestureRecognizers = <NSArray>; backgroundColor = <UIDynamicCatalogColor; name = ypBackground>; placeholder = Введите название категории; borderStyle = None; background = <_UITextFieldNoBackgroundProvider: textfield=<UITextField>>; layer = <CALayer>>
+   |    | <UIView; frame = (0 38; 16 0); layer = <CALayer>>
+   |    | <UITextFieldLabel; frame = (16 27.3333; 345 20.3333); text = 'Введите название категори...'; opaque = NO; userInteractionEnabled = NO; layer = <_UILabelLayer>>
+   |    | <_UITextLayoutCanvasView; frame = (16 0; 345 75); layer = <CALayer>>
+   |    |    | <_UITextLayoutFragmentView; frame = (0 27.3333; 0 21); opaque = NO; layer = <CALayer>>
+   | <UIButton; frame = (20 776; 353 60); opaque = NO; backgroundColor = <UIDynamicCatalogColor; name = ypGray>; layer = <CALayer>>
+   |    | <UIButtonLabel; frame = (150.667 20; 52 20); text = 'Готово'; opaque = NO; userInteractionEnabled = NO; layer = <_UILabelLayer>>

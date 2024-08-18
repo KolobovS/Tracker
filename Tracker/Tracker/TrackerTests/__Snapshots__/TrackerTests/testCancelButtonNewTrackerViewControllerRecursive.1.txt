@@ -1,0 +1,2 @@
+<UIButton; frame = (0 0; 77 32); opaque = NO; tintColor = <UIDynamicCatalogColor; name = ypRed>; backgroundColor = <UIDynamicCatalogColor; name = ypWhite>; layer = <CALayer>>
+   | <UIButtonLabel; frame = (0 6; 77 20); text = 'Отменить'; opaque = NO; userInteractionEnabled = NO; layer = <_UILabelLayer>>

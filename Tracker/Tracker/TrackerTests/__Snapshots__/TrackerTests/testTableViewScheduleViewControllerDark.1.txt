@@ -1,0 +1,5 @@
+<UITableView; frame = (0 0; 0 0); clipsToBounds = YES; gestureRecognizers = <NSArray>; backgroundColor = <UIDynamicSystemColor; name = tableBackgroundColor>; layer = <CALayer>; contentOffset: {0, 0}; contentSize: {0, 0}; adjustedContentInset: {0, 0, 0, 0}; dataSource: (null)>
+   | <_UIScrollViewScrollIndicator; frame = (-39 -6; 36 3); alpha = 0; autoresize = TM; layer = <CALayer>>
+   |    | <UIView; frame = (0 0; 36 3); backgroundColor = UIExtendedGrayColorSpace 1 0.5; layer = <CALayer>>
+   | <_UIScrollViewScrollIndicator; frame = (-6 -39; 3 36); alpha = 0; autoresize = LM; layer = <CALayer>>
+   |    | <UIView; frame = (0 0; 3 36); backgroundColor = UIExtendedGrayColorSpace 1 0.5; layer = <CALayer>>

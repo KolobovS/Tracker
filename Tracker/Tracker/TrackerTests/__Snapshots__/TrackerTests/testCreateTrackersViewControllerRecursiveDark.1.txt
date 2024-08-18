@@ -1,0 +1,6 @@
+<UIView; frame = (0 0; 393 852); autoresize = W+H; backgroundColor = <UIDynamicCatalogColor; name = ypWhite>; layer = <CALayer>>
+   | <UILabel; frame = (124.667 27; 143.667 19.3333); text = 'Создание трекера'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   | <UIButton; frame = (20 341.333; 353 60); opaque = NO; tintColor = <UIDynamicCatalogColor; name = ypWhite>; backgroundColor = <UIDynamicCatalogColor; name = ypBlack>; layer = <CALayer>>
+   |    | <UIButtonLabel; frame = (137 20; 79 20); text = 'Привычка'; opaque = NO; userInteractionEnabled = NO; layer = <_UILabelLayer>>
+   | <UIButton; frame = (20 417.333; 353 60); opaque = NO; tintColor = <UIDynamicCatalogColor; name = ypWhite>; backgroundColor = <UIDynamicCatalogColor; name = ypBlack>; layer = <CALayer>>
+   |    | <UIButtonLabel; frame = (85 20; 183 20); text = 'Нерегулярное событие'; opaque = NO; userInteractionEnabled = NO; layer = <_UILabelLayer>>

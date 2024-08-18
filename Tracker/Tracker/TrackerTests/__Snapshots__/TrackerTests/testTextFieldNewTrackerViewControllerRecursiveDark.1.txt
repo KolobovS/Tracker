@@ -1,0 +1,5 @@
+<UITextField; frame = (0 0; 230.333 22); opaque = NO; gestureRecognizers = <NSArray>; backgroundColor = <UIDynamicCatalogColor; name = ypBackground>; placeholder = Введите название трекера; borderStyle = None; background = <_UITextFieldNoBackgroundProvider: textfield=<UITextField>>; layer = <CALayer>>
+   | <UIView; frame = (0 11; 16 0); layer = <CALayer>>
+   | <UITextFieldLabel; frame = (16 1; 215 20.3333); text = 'Введите название трекера'; opaque = NO; userInteractionEnabled = NO; layer = <_UILabelLayer>>
+   | <_UITextLayoutCanvasView; frame = (16 0; 215 22); layer = <CALayer>>
+   |    | <_UITextLayoutFragmentView; frame = (0 1; 0 21); opaque = NO; layer = <CALayer>>

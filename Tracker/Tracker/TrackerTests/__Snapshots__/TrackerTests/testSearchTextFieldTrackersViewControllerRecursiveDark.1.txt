@@ -1,0 +1,7 @@
+<UISearchTextField; frame = (0 0; 102.333 34); opaque = NO; gestureRecognizers = <NSArray>; placeholder = Поиск; borderStyle = RoundedRect; background = <_UITextFieldSystemBackgroundProvider: backgroundView=<_UISearchBarSearchFieldBackgroundView; frame = (0 0; 102.333 34); opaque = NO; autoresize = W+H; userInteractionEnabled = NO; backgroundColor = <UIDynamicSystemColor; name = tertiarySystemFillColor>; layer = <CALayer>>, fillColor=(null), textfield=<UISearchTextField>>; layer = <CALayer>>
+   | <_UISearchBarSearchFieldBackgroundView; frame = (0 0; 102.333 34); opaque = NO; autoresize = W+H; userInteractionEnabled = NO; backgroundColor = <UIDynamicSystemColor; name = tertiarySystemFillColor>; layer = <CALayer>>
+   |    | <_UISearchBarSearchFieldBackgroundView; frame = (0 0; 102.333 34); opaque = NO; autoresize = W+H; userInteractionEnabled = NO; backgroundColor = <UIDynamicSystemColor; name = tertiarySystemFillColor>; layer = <CALayer>>
+   | <UIImageView; frame = (6 7.66667; 20.3333 18.6667); opaque = NO; userInteractionEnabled = NO; tintColor = <UIDynamicCatalogSystemColor; name = secondaryLabelColor>; layer = <CALayer>>
+   | <UISearchBarTextFieldLabel; frame = (30.3333 7; 51 20.3333); text = 'Поиск'; opaque = NO; userInteractionEnabled = NO; layer = <_UILabelLayer>>
+   | <_UITextLayoutCanvasView; frame = (30.3333 2; 65.6667 30); layer = <CALayer>>
+   |    | <_UITextLayoutFragmentView; frame = (1 5; 0 21); opaque = NO; layer = <CALayer>>

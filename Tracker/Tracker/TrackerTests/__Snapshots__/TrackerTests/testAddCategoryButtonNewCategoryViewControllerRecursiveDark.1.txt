@@ -1,0 +1,2 @@
+<UIButton; frame = (0 0; 52 32); opaque = NO; backgroundColor = <UIDynamicCatalogColor; name = ypGray>; layer = <CALayer>>
+   | <UIButtonLabel; frame = (0 6; 52 20); text = 'Готово'; opaque = NO; userInteractionEnabled = NO; layer = <_UILabelLayer>>

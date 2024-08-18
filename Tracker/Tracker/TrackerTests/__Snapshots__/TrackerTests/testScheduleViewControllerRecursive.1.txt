@@ -1,0 +1,100 @@
+<UIView; frame = (0 0; 393 852); autoresize = W+H; backgroundColor = <UIDynamicCatalogColor; name = ypWhite>; layer = <CALayer>>
+   | <UILabel; frame = (150 27; 93.3333 19.3333); text = 'Расписание'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   | <UITableView; frame = (16 76.3333; 361 524); clipsToBounds = YES; gestureRecognizers = <NSArray>; backgroundColor = <UIDynamicSystemColor; name = tableBackgroundColor>; layer = <CALayer>; contentOffset: {0, 0}; contentSize: {361, 525}; adjustedContentInset: {0, 0, 0, 0}; dataSource: <Tracker.ScheduleViewController>>
+   |    | <Tracker.ScheduleTableViewCell; baseClass = UITableViewCell; frame = (0 450; 361 75); autoresize = W; backgroundColor = <UIDynamicCatalogColor; name = ypBackground>; layer = <CALayer>>
+   |    |    | <UITableViewCellContentView; frame = (0 0; 361 75); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <_UITableViewCellSeparatorView; frame = (20 74.6667; 321 0.333333); backgroundColor = <UIDynamicCatalogColor; name = ypGray>; layer = <CALayer>>
+   |    |    | <UILabel; frame = (16 27.3333; 104.667 20.3333); text = 'Воскресенье'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    | <UISwitch; frame = (296 22; 51 31); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    |    | <UISwitchModernVisualElement; frame = (0 0; 51 31); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    |    |    | <UIView; frame = (0 0; 51 31); backgroundColor = UIExtendedSRGBColorSpace 0.470588 0.470588 0.501961 0.16; layer = <CALayer>>
+   |    |    |    |    | <UIView; frame = (0 0; 51 31); layer = <CALayer>>
+   |    |    |    |    |    | <UIImageView; frame = (-459 0; 510 31); hidden = YES; opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    |    |    |    | <UIView; frame = (0 0; 51 31); layer = <CALayer>>
+   |    |    |    |    |    |    | <UIImageView; frame = (38.6667 16; 0 0); userInteractionEnabled = NO; tintColor = <UIDynamicSystemColor; name = _switchOffImageColor>; layer = <CALayer>>
+   |    |    |    |    |    |    | <UIImageView; frame = (12 16; 0 0); alpha = 0; userInteractionEnabled = NO; tintColor = UIExtendedGrayColorSpace 1 1; layer = <CALayer>>
+   |    |    |    |    |    | <UIImageView; frame = (-6 -3; 43 43); opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   |    | <Tracker.ScheduleTableViewCell; baseClass = UITableViewCell; frame = (0 375; 361 75); autoresize = W; backgroundColor = <UIDynamicCatalogColor; name = ypBackground>; layer = <CALayer>>
+   |    |    | <UITableViewCellContentView; frame = (0 0; 361 75); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <_UITableViewCellSeparatorView; frame = (20 74.6667; 321 0.333333); backgroundColor = <UIDynamicCatalogColor; name = ypGray>; layer = <CALayer>>
+   |    |    | <UILabel; frame = (16 27.3333; 66.6667 20.3333); text = 'Суббота'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    | <UISwitch; frame = (296 22; 51 31); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    |    | <UISwitchModernVisualElement; frame = (0 0; 51 31); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    |    |    | <UIView; frame = (0 0; 51 31); backgroundColor = UIExtendedSRGBColorSpace 0.470588 0.470588 0.501961 0.16; layer = <CALayer>>
+   |    |    |    |    | <UIView; frame = (0 0; 51 31); layer = <CALayer>>
+   |    |    |    |    |    | <UIImageView; frame = (-459 0; 510 31); hidden = YES; opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    |    |    |    | <UIView; frame = (0 0; 51 31); layer = <CALayer>>
+   |    |    |    |    |    |    | <UIImageView; frame = (38.6667 16; 0 0); userInteractionEnabled = NO; tintColor = <UIDynamicSystemColor; name = _switchOffImageColor>; layer = <CALayer>>
+   |    |    |    |    |    |    | <UIImageView; frame = (12 16; 0 0); alpha = 0; userInteractionEnabled = NO; tintColor = UIExtendedGrayColorSpace 1 1; layer = <CALayer>>
+   |    |    |    |    |    | <UIImageView; frame = (-6 -3; 43 43); opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   |    | <Tracker.ScheduleTableViewCell; baseClass = UITableViewCell; frame = (0 300; 361 75); autoresize = W; backgroundColor = <UIDynamicCatalogColor; name = ypBackground>; layer = <CALayer>>
+   |    |    | <UITableViewCellContentView; frame = (0 0; 361 75); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <_UITableViewCellSeparatorView; frame = (20 74.6667; 321 0.333333); backgroundColor = <UIDynamicCatalogColor; name = ypGray>; layer = <CALayer>>
+   |    |    | <UILabel; frame = (16 27.3333; 68 20.3333); text = 'Пятница'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    | <UISwitch; frame = (296 22; 51 31); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    |    | <UISwitchModernVisualElement; frame = (0 0; 51 31); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    |    |    | <UIView; frame = (0 0; 51 31); backgroundColor = UIExtendedSRGBColorSpace 0.470588 0.470588 0.501961 0.16; layer = <CALayer>>
+   |    |    |    |    | <UIView; frame = (0 0; 51 31); layer = <CALayer>>
+   |    |    |    |    |    | <UIImageView; frame = (-459 0; 510 31); hidden = YES; opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    |    |    |    | <UIView; frame = (0 0; 51 31); layer = <CALayer>>
+   |    |    |    |    |    |    | <UIImageView; frame = (38.6667 16; 0 0); userInteractionEnabled = NO; tintColor = <UIDynamicSystemColor; name = _switchOffImageColor>; layer = <CALayer>>
+   |    |    |    |    |    |    | <UIImageView; frame = (12 16; 0 0); alpha = 0; userInteractionEnabled = NO; tintColor = UIExtendedGrayColorSpace 1 1; layer = <CALayer>>
+   |    |    |    |    |    | <UIImageView; frame = (-6 -3; 43 43); opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   |    | <Tracker.ScheduleTableViewCell; baseClass = UITableViewCell; frame = (0 225; 361 75); autoresize = W; backgroundColor = <UIDynamicCatalogColor; name = ypBackground>; layer = <CALayer>>
+   |    |    | <UITableViewCellContentView; frame = (0 0; 361 75); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <_UITableViewCellSeparatorView; frame = (20 74.6667; 321 0.333333); backgroundColor = <UIDynamicCatalogColor; name = ypGray>; layer = <CALayer>>
+   |    |    | <UILabel; frame = (16 27.3333; 64.3333 20.3333); text = 'Четверг'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    | <UISwitch; frame = (296 22; 51 31); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    |    | <UISwitchModernVisualElement; frame = (0 0; 51 31); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    |    |    | <UIView; frame = (0 0; 51 31); backgroundColor = UIExtendedSRGBColorSpace 0.470588 0.470588 0.501961 0.16; layer = <CALayer>>
+   |    |    |    |    | <UIView; frame = (0 0; 51 31); layer = <CALayer>>
+   |    |    |    |    |    | <UIImageView; frame = (-459 0; 510 31); hidden = YES; opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    |    |    |    | <UIView; frame = (0 0; 51 31); layer = <CALayer>>
+   |    |    |    |    |    |    | <UIImageView; frame = (38.6667 16; 0 0); userInteractionEnabled = NO; tintColor = <UIDynamicSystemColor; name = _switchOffImageColor>; layer = <CALayer>>
+   |    |    |    |    |    |    | <UIImageView; frame = (12 16; 0 0); alpha = 0; userInteractionEnabled = NO; tintColor = UIExtendedGrayColorSpace 1 1; layer = <CALayer>>
+   |    |    |    |    |    | <UIImageView; frame = (-6 -3; 43 43); opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   |    | <Tracker.ScheduleTableViewCell; baseClass = UITableViewCell; frame = (0 150; 361 75); autoresize = W; backgroundColor = <UIDynamicCatalogColor; name = ypBackground>; layer = <CALayer>>
+   |    |    | <UITableViewCellContentView; frame = (0 0; 361 75); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <_UITableViewCellSeparatorView; frame = (20 74.6667; 321 0.333333); backgroundColor = <UIDynamicCatalogColor; name = ypGray>; layer = <CALayer>>
+   |    |    | <UILabel; frame = (16 27.3333; 50.6667 20.3333); text = 'Среда'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    | <UISwitch; frame = (296 22; 51 31); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    |    | <UISwitchModernVisualElement; frame = (0 0; 51 31); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    |    |    | <UIView; frame = (0 0; 51 31); backgroundColor = UIExtendedSRGBColorSpace 0.470588 0.470588 0.501961 0.16; layer = <CALayer>>
+   |    |    |    |    | <UIView; frame = (0 0; 51 31); layer = <CALayer>>
+   |    |    |    |    |    | <UIImageView; frame = (-459 0; 510 31); hidden = YES; opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    |    |    |    | <UIView; frame = (0 0; 51 31); layer = <CALayer>>
+   |    |    |    |    |    |    | <UIImageView; frame = (38.6667 16; 0 0); userInteractionEnabled = NO; tintColor = <UIDynamicSystemColor; name = _switchOffImageColor>; layer = <CALayer>>
+   |    |    |    |    |    |    | <UIImageView; frame = (12 16; 0 0); alpha = 0; userInteractionEnabled = NO; tintColor = UIExtendedGrayColorSpace 1 1; layer = <CALayer>>
+   |    |    |    |    |    | <UIImageView; frame = (-6 -3; 43 43); opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   |    | <Tracker.ScheduleTableViewCell; baseClass = UITableViewCell; frame = (0 75; 361 75); autoresize = W; backgroundColor = <UIDynamicCatalogColor; name = ypBackground>; layer = <CALayer>>
+   |    |    | <UITableViewCellContentView; frame = (0 0; 361 75); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <_UITableViewCellSeparatorView; frame = (20 74.6667; 321 0.333333); backgroundColor = <UIDynamicCatalogColor; name = ypGray>; layer = <CALayer>>
+   |    |    | <UILabel; frame = (16 27.3333; 66.6667 20.3333); text = 'Вторник'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    | <UISwitch; frame = (296 22; 51 31); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    |    | <UISwitchModernVisualElement; frame = (0 0; 51 31); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    |    |    | <UIView; frame = (0 0; 51 31); backgroundColor = UIExtendedSRGBColorSpace 0.470588 0.470588 0.501961 0.16; layer = <CALayer>>
+   |    |    |    |    | <UIView; frame = (0 0; 51 31); layer = <CALayer>>
+   |    |    |    |    |    | <UIImageView; frame = (-459 0; 510 31); hidden = YES; opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    |    |    |    | <UIView; frame = (0 0; 51 31); layer = <CALayer>>
+   |    |    |    |    |    |    | <UIImageView; frame = (38.6667 16; 0 0); userInteractionEnabled = NO; tintColor = <UIDynamicSystemColor; name = _switchOffImageColor>; layer = <CALayer>>
+   |    |    |    |    |    |    | <UIImageView; frame = (12 16; 0 0); alpha = 0; userInteractionEnabled = NO; tintColor = UIExtendedGrayColorSpace 1 1; layer = <CALayer>>
+   |    |    |    |    |    | <UIImageView; frame = (-6 -3; 43 43); opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   |    | <Tracker.ScheduleTableViewCell; baseClass = UITableViewCell; frame = (0 0; 361 75); autoresize = W; backgroundColor = <UIDynamicCatalogColor; name = ypBackground>; layer = <CALayer>>
+   |    |    | <UITableViewCellContentView; frame = (0 0; 361 75); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <_UITableViewCellSeparatorView; frame = (20 74.6667; 321 0.333333); backgroundColor = <UIDynamicCatalogColor; name = ypGray>; layer = <CALayer>>
+   |    |    | <UILabel; frame = (16 27.3333; 106.667 20.3333); text = 'Понедельник'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    | <UISwitch; frame = (296 22; 51 31); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    |    | <UISwitchModernVisualElement; frame = (0 0; 51 31); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    |    |    | <UIView; frame = (0 0; 51 31); backgroundColor = UIExtendedSRGBColorSpace 0.470588 0.470588 0.501961 0.16; layer = <CALayer>>
+   |    |    |    |    | <UIView; frame = (0 0; 51 31); layer = <CALayer>>
+   |    |    |    |    |    | <UIImageView; frame = (-459 0; 510 31); hidden = YES; opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    |    |    |    | <UIView; frame = (0 0; 51 31); layer = <CALayer>>
+   |    |    |    |    |    |    | <UIImageView; frame = (38.6667 16; 0 0); userInteractionEnabled = NO; tintColor = <UIDynamicSystemColor; name = _switchOffImageColor>; layer = <CALayer>>
+   |    |    |    |    |    |    | <UIImageView; frame = (12 16; 0 0); alpha = 0; userInteractionEnabled = NO; tintColor = UIExtendedGrayColorSpace 1 1; layer = <CALayer>>
+   |    |    |    |    |    | <UIImageView; frame = (-6 -3; 43 43); opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   |    | <_UIScrollViewScrollIndicator; frame = (355 -39; 3 36); alpha = 0; autoresize = LM; layer = <CALayer>>
+   |    |    | <UIView; frame = (0 0; 3 36); backgroundColor = UIExtendedGrayColorSpace 0 0.35; layer = <CALayer>>
+   |    | <_UIScrollViewScrollIndicator; frame = (-39 518; 36 3); alpha = 0; autoresize = TM; layer = <CALayer>>
+   |    |    | <UIView; frame = (0 0; 36 3); backgroundColor = UIExtendedGrayColorSpace 0 0.35; layer = <CALayer>>
+   | <UIButton; frame = (20 776; 353 60); opaque = NO; tintColor = <UIDynamicCatalogColor; name = ypWhite>; backgroundColor = <UIDynamicCatalogColor; name = ypBlack>; layer = <CALayer>>
+   |    | <UIButtonLabel; frame = (150.667 20; 52 20); text = 'Готово'; opaque = NO; userInteractionEnabled = NO; layer = <_UILabelLayer>>

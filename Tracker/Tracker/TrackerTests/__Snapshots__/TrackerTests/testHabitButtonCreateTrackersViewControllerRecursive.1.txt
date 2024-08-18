@@ -1,0 +1,2 @@
+<UIButton; frame = (0 0; 79 32); opaque = NO; tintColor = <UIDynamicCatalogColor; name = ypWhite>; backgroundColor = <UIDynamicCatalogColor; name = ypBlack>; layer = <CALayer>>
+   | <UIButtonLabel; frame = (0 6; 79 20); text = 'Привычка'; opaque = NO; userInteractionEnabled = NO; layer = <_UILabelLayer>>
