@@ -1,0 +1,161 @@
+<UIView; frame = (0 0; 393 852); autoresize = W+H; backgroundColor = <UIDynamicCatalogColor; name = ypWhite>; layer = <CALayer>>
+   | <UILabel; frame = (80.3333 27; 232.667 19.3333); text = 'Новое нерегулярное событи...'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   | <UIScrollView; frame = (0 60.3333; 393 715.667); clipsToBounds = YES; gestureRecognizers = <NSArray>; layer = <CALayer>; contentOffset: {0, 0}; contentSize: {393, 690}; adjustedContentInset: {0, 0, 0, 0}>
+   |    | <UITextField; frame = (16 24; 361 75); opaque = NO; gestureRecognizers = <NSArray>; backgroundColor = <UIDynamicCatalogColor; name = ypBackground>; placeholder = Введите название трекера; borderStyle = None; background = <_UITextFieldNoBackgroundProvider: textfield=<UITextField>>; layer = <CALayer>>
+   |    |    | <UIView; frame = (0 38; 16 0); layer = <CALayer>>
+   |    |    | <UITextFieldLabel; frame = (16 27.3333; 345 20.3333); text = 'Введите название трекера'; opaque = NO; userInteractionEnabled = NO; layer = <_UILabelLayer>>
+   |    |    | <_UITextLayoutCanvasView; frame = (16 0; 345 75); layer = <CALayer>>
+   |    |    |    | <_UITextLayoutFragmentView; frame = (0 27.3333; 0 21); opaque = NO; layer = <CALayer>>
+   |    | <UITableView; frame = (16 123; 361 75); clipsToBounds = YES; gestureRecognizers = <NSArray>; backgroundColor = <UIDynamicSystemColor; name = tableBackgroundColor>; layer = <CALayer>; contentOffset: {0, 0}; contentSize: {361, 119}; adjustedContentInset: {0, 0, 0, 0}; dataSource: <Tracker.NewTrackerViewController>>
+   |    |    | <Tracker.NewTrackerTableViewCell; baseClass = UITableViewCell; frame = (0 0; 361 75); autoresize = W; backgroundColor = <UIDynamicCatalogColor; name = ypBackground>; layer = <CALayer>>
+   |    |    |    | <UITableViewCellContentView; frame = (0 0; 330.667 75); gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (16 27.3333; 82.6667 20.3333); text = 'Категория'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    | <_UITableCellAccessoryButton; frame = (330.667 30.3333; 10.3333 14); opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    |    |    | <UIImageView; frame = (0 0; 10.3333 14); clipsToBounds = YES; opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <_UIScrollViewScrollIndicator; frame = (-42 69; 36 3); alpha = 0; autoresize = TM; layer = <CALayer>>
+   |    |    |    | <UIView; frame = (0 0; 36 3); backgroundColor = UIExtendedGrayColorSpace 1 0.5; layer = <CALayer>>
+   |    |    | <_UIScrollViewScrollIndicator; frame = (355 -39; 3 36); alpha = 0; autoresize = LM; layer = <CALayer>>
+   |    |    |    | <UIView; frame = (0 0; 3 36); backgroundColor = UIExtendedGrayColorSpace 1 0.5; layer = <CALayer>>
+   |    | <UICollectionView; frame = (0 230; 393 460); clipsToBounds = YES; gestureRecognizers = <NSArray>; backgroundColor = <UIDynamicCatalogColor; name = ypWhite>; layer = <CALayer>; contentOffset: {0, 0}; contentSize: {393, 482}; adjustedContentInset: {0, 0, 0, 0}; layout: <UICollectionViewFlowLayout>; dataSource: <Tracker.NewTrackerViewController>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (19 54; 52 52); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (8 7; 36 38.3333); text = '🙂'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    |    | <_UILabelContentLayer> (layer)
+   |    |    |    | <UIImageView; frame = (5 5; 42 42); userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (79.6667 54; 52 52); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (8 7; 36 38.3333); text = '😻'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    |    | <_UILabelContentLayer> (layer)
+   |    |    |    | <UIImageView; frame = (5 5; 42 42); userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (140.333 54; 52 52); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (8 7; 36 38.3333); text = '🌺'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    |    | <_UILabelContentLayer> (layer)
+   |    |    |    | <UIImageView; frame = (5 5; 42 42); userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (200.667 54; 52 52); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (8 7; 36 38.3333); text = '🐶'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    |    | <_UILabelContentLayer> (layer)
+   |    |    |    | <UIImageView; frame = (5 5; 42 42); userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (261.333 54; 52 52); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (8 7; 36 38.3333); text = '❤️'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    |    | <_UILabelContentLayer> (layer)
+   |    |    |    | <UIImageView; frame = (5 5; 42 42); userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (322 54; 52 52); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (8 7; 36 38.3333); text = '😱'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    |    | <_UILabelContentLayer> (layer)
+   |    |    |    | <UIImageView; frame = (5 5; 42 42); userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (19 106; 52 52); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (8 7; 36 38.3333); text = '😇'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    |    | <_UILabelContentLayer> (layer)
+   |    |    |    | <UIImageView; frame = (5 5; 42 42); userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (79.6667 106; 52 52); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (8 7; 36 38.3333); text = '😡'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    |    | <_UILabelContentLayer> (layer)
+   |    |    |    | <UIImageView; frame = (5 5; 42 42); userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (140.333 106; 52 52); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (8 7; 36 38.3333); text = '🥶'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    |    | <_UILabelContentLayer> (layer)
+   |    |    |    | <UIImageView; frame = (5 5; 42 42); userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (200.667 106; 52 52); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (8 7; 36 38.3333); text = '🤔'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    |    | <_UILabelContentLayer> (layer)
+   |    |    |    | <UIImageView; frame = (5 5; 42 42); userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (261.333 106; 52 52); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (8 7; 36 38.3333); text = '🙌'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    |    | <_UILabelContentLayer> (layer)
+   |    |    |    | <UIImageView; frame = (5 5; 42 42); userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (322 106; 52 52); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (8 7; 36 38.3333); text = '🍔'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    |    | <_UILabelContentLayer> (layer)
+   |    |    |    | <UIImageView; frame = (5 5; 42 42); userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (19 158; 52 52); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (8 7; 36 38.3333); text = '🥦'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    |    | <_UILabelContentLayer> (layer)
+   |    |    |    | <UIImageView; frame = (5 5; 42 42); userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (79.6667 158; 52 52); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (8 7; 36 38.3333); text = '🏓'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    |    | <_UILabelContentLayer> (layer)
+   |    |    |    | <UIImageView; frame = (5 5; 42 42); userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (140.333 158; 52 52); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (8 7; 36 38.3333); text = '🥇'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    |    | <_UILabelContentLayer> (layer)
+   |    |    |    | <UIImageView; frame = (5 5; 42 42); userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (200.667 158; 52 52); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (8 7; 36 38.3333); text = '🎸'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    |    | <_UILabelContentLayer> (layer)
+   |    |    |    | <UIImageView; frame = (5 5; 42 42); userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (261.333 158; 52 52); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (8 7; 36 38.3333); text = '🏝'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    |    | <_UILabelContentLayer> (layer)
+   |    |    |    | <UIImageView; frame = (5 5; 42 42); userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (322 158; 52 52); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (8 7; 36 38.3333); text = '😪'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    |    | <_UILabelContentLayer> (layer)
+   |    |    |    | <UIImageView; frame = (5 5; 42 42); userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (22 304; 46 46); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (23 23; 0 0); userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    | <UIImageView; frame = (5 5; 36 36); userInteractionEnabled = NO; backgroundColor = <UIDynamicCatalogColor; name = colorSelection1>; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (82.6667 304; 46 46); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (23 23; 0 0); userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    | <UIImageView; frame = (5 5; 36 36); userInteractionEnabled = NO; backgroundColor = <UIDynamicCatalogColor; name = colorSelection2>; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (143.333 304; 46 46); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (23 23; 0 0); userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    | <UIImageView; frame = (5 5; 36 36); userInteractionEnabled = NO; backgroundColor = <UIDynamicCatalogColor; name = colorSelection3>; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (203.667 304; 46 46); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (23 23; 0 0); userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    | <UIImageView; frame = (5 5; 36 36); userInteractionEnabled = NO; backgroundColor = <UIDynamicCatalogColor; name = colorSelection4>; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (264.333 304; 46 46); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (23 23; 0 0); userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    | <UIImageView; frame = (5 5; 36 36); userInteractionEnabled = NO; backgroundColor = <UIDynamicCatalogColor; name = colorSelection5>; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (325 304; 46 46); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (23 23; 0 0); userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    | <UIImageView; frame = (5 5; 36 36); userInteractionEnabled = NO; backgroundColor = <UIDynamicCatalogColor; name = colorSelection6>; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (22 350; 46 46); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (23 23; 0 0); userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    | <UIImageView; frame = (5 5; 36 36); userInteractionEnabled = NO; backgroundColor = <UIDynamicCatalogColor; name = colorSelection7>; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (82.6667 350; 46 46); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (23 23; 0 0); userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    | <UIImageView; frame = (5 5; 36 36); userInteractionEnabled = NO; backgroundColor = <UIDynamicCatalogColor; name = colorSelection8>; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (143.333 350; 46 46); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (23 23; 0 0); userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    | <UIImageView; frame = (5 5; 36 36); userInteractionEnabled = NO; backgroundColor = <UIDynamicCatalogColor; name = colorSelection9>; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (203.667 350; 46 46); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (23 23; 0 0); userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    | <UIImageView; frame = (5 5; 36 36); userInteractionEnabled = NO; backgroundColor = <UIDynamicCatalogColor; name = colorSelection10>; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (264.333 350; 46 46); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (23 23; 0 0); userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    | <UIImageView; frame = (5 5; 36 36); userInteractionEnabled = NO; backgroundColor = <UIDynamicCatalogColor; name = colorSelection11>; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (325 350; 46 46); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (23 23; 0 0); userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    | <UIImageView; frame = (5 5; 36 36); userInteractionEnabled = NO; backgroundColor = <UIDynamicCatalogColor; name = colorSelection12>; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (22 396; 46 46); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (23 23; 0 0); userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    | <UIImageView; frame = (5 5; 36 36); userInteractionEnabled = NO; backgroundColor = <UIDynamicCatalogColor; name = colorSelection13>; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (82.6667 396; 46 46); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (23 23; 0 0); userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    | <UIImageView; frame = (5 5; 36 36); userInteractionEnabled = NO; backgroundColor = <UIDynamicCatalogColor; name = colorSelection14>; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (143.333 396; 46 46); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (23 23; 0 0); userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    | <UIImageView; frame = (5 5; 36 36); userInteractionEnabled = NO; backgroundColor = <UIDynamicCatalogColor; name = colorSelection15>; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (203.667 396; 46 46); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (23 23; 0 0); userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    | <UIImageView; frame = (5 5; 36 36); userInteractionEnabled = NO; backgroundColor = <UIDynamicCatalogColor; name = colorSelection16>; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (264.333 396; 46 46); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (23 23; 0 0); userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    | <UIImageView; frame = (5 5; 36 36); userInteractionEnabled = NO; backgroundColor = <UIDynamicCatalogColor; name = colorSelection17>; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerCollectionViewCell; baseClass = UICollectionViewCell; frame = (325 396; 46 46); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (23 23; 0 0); userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    |    | <UIImageView; frame = (5 5; 36 36); userInteractionEnabled = NO; backgroundColor = <UIDynamicCatalogColor; name = colorSelection18>; layer = <CALayer>>
+   |    |    | <Tracker.NewTrackerSupplementaryView; baseClass = UICollectionReusableView; frame = (0 0; 393 54); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (28 0; 78 23); text = 'Эмоджи'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    | <Tracker.NewTrackerSupplementaryView; baseClass = UICollectionReusableView; frame = (0 250; 393 54); layer = <CALayer>>
+   |    |    |    | <UILabel; frame = (28 0; 45 23); text = 'Цвет'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   |    |    | <_UIScrollViewScrollIndicator; frame = (387 -39; 3 36); alpha = 0; autoresize = LM; layer = <CALayer>>
+   |    |    |    | <UIView; frame = (0 0; 3 36); backgroundColor = UIExtendedGrayColorSpace 1 0.5; layer = <CALayer>>
+   |    |    | <_UIScrollViewScrollIndicator; frame = (-39 454; 36 3); alpha = 0; autoresize = TM; layer = <CALayer>>
+   |    |    |    | <UIView; frame = (0 0; 36 3); backgroundColor = UIExtendedGrayColorSpace 1 0.5; layer = <CALayer>>
+   |    | <_UIScrollViewScrollIndicator; frame = (387 -39; 3 36); alpha = 0; autoresize = LM; layer = <CALayer>>
+   |    |    | <UIView; frame = (0 0; 3 36); backgroundColor = UIExtendedGrayColorSpace 1 0.5; layer = <CALayer>>
+   |    | <_UIScrollViewScrollIndicator; frame = (-39 709.667; 36 3); alpha = 0; autoresize = TM; layer = <CALayer>>
+   |    |    | <UIView; frame = (0 0; 36 3); backgroundColor = UIExtendedGrayColorSpace 1 0.5; layer = <CALayer>>
+   | <UIButton; frame = (20 792; 172.667 60); opaque = NO; tintColor = <UIDynamicCatalogColor; name = ypRed>; backgroundColor = <UIDynamicCatalogColor; name = ypWhite>; layer = <CALayer>>
+   |    | <UIButtonLabel; frame = (48 20; 77 20); text = 'Отменить'; opaque = NO; userInteractionEnabled = NO; layer = <_UILabelLayer>>
+   | <UIButton; frame = (200.667 792; 172.333 60); opaque = NO; backgroundColor = <UIDynamicCatalogColor; name = ypGray>; layer = <CALayer>>
+   |    | <UIButtonLabel; frame = (53.6667 20; 65 20); text = 'Создать'; opaque = NO; userInteractionEnabled = NO; layer = <_UILabelLayer>>

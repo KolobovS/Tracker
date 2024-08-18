@@ -1,0 +1,103 @@
+//MARK: Onboarding
+"onboarding.firstPageTitle" = "עקוב רק אחר מה שאתה רוצה";
+"onboarding.secondPageTitle" = "גם אם זה לא ליטר מים ויוגה";
+"onboarding.continueButton" = "אלה טכנולוגיות!";
+
+//MARK: TabBar
+"tabBar.trackersTabBarTitle" = "עוקבים";
+"tabBar.statisticTabBarTitle" = "סטטיסטיקה";
+
+//MARK: StatisticsVC
+"statisticsVC.navigationTitle" = "סטטיסטיקה";
+"statisticsVC.emptyStateLabel" = "עדיין אין מה לנתח";
+
+//MARK: TrackersVC
+"trackersVC.navigationTitle" = "עוקבים";
+"trackersVC.pinnedTrackers" = "מוצמד";
+"trackersVC.textFieldPlaceholder" = "חיפוש";
+"trackersVC.cancelButton" = "ביטול";
+"trackersVC.filterButton" = "מסננים";
+"trackersVC.nothingFoundLabel" = "שום דבר לא נמצא";
+"trackersVC.emptyStateLabel" = "מה נעקוב?";
+
+//MARK: FiltersVC
+"filtersVC.filtersTitle" = "מסננים";
+"filtersVC.allTrackers" = "כל הגששים";
+"filtersVC.todayTrackers" = "עוקבים להיום";
+"filtersVC.completed" = "הושלם";
+"filtersVC.uncompleted" = "לא הושלם";
+
+//MARK: CreateTrackerVC
+"createTrackerVC.createTrackerLabel" = "יצירת גשש";
+"createTrackerVC.habitLabel" = "הרגל";
+"createTrackerVC.unregularEventLabel" = "אירוע לא סדיר";
+
+//MARK: NewTrackerVC
+"newTrackerVC.newHabitLabel" = "הרגל חדש";
+"newTrackerVC.newUnregularEventLabel" = "אירוע לא סדיר חדש";
+"newTrackerVC.textFieldPlaceholder" = "הזן את שם הגשש";
+"newTrackerVC.textFieldWarning" = "מגבלה של 38 תווים";
+"newTrackerVC.tableViewCategoryLabel" = "קטגוריה";
+"newTrackerVC.tableViewScheduleLabel" = "לוח זמנים";
+"newTrackerVC.cancelButton" = "ביטול";
+"newTrackerVC.createButton" = "צור";
+"newTrackerVC.emojiLabel" = "אימוג ' י";
+"newTrackerVC.colorLabel" = "צבע";
+
+//MARK: EditingTrackerVC
+"editingTrackerVC.editTitle" = "הרגלי עריכה";
+"editingTrackerVC.saveButton" = "שמור";
+
+//MARK: CategoryVC
+"categoryVC.categoryTitle" = "קטגוריה";
+"categoryVC.emptyStateLabel" = "הרגלים ואירועים יכולים להיות משולבים במשמעות";
+"categoryVC.addCategoryButton" = "הוסף קטגוריה";
+
+//MARK: EditingCategoryVC
+"editingCategoryVC.editingCategoryTitle" = "עריכת קטגוריה";
+"editingCategoryVC.doneButton" = "בוצע";
+
+//MARK: NewCategoryVC
+"newCategoryVC.newCategoryTitle" = "קטגוריה חדשה";
+"newCategoryVC.textFieldPlaceholder" = "הזן את שם הקטגוריה";
+"newCategoryVC.doneButton" = "בוצע";
+
+//MARK: ScheduleVC
+"scheduleVC.scheduleTitle" = "לוח זמנים";
+"scheduleVC.doneButton" = "בוצע";
+
+"scheduleVC.monday" = "יום שני";
+"scheduleVC.tuesday" = "יום שלישי";
+"scheduleVC.wednesday" = "יום רביעי";
+"scheduleVC.thursday" = "יום חמישי";
+"scheduleVC.friday" = "יום שישי";
+"scheduleVC.saturday" = "יום שבת";
+"scheduleVC.sunday" = "יום ראשון";
+"scheduleVC.everyDay" = "כל יום";
+
+"scheduleVC.mondayShort" = "ב";
+"scheduleVC.tuesdayShort" = "ג";
+"scheduleVC.wednesdayShort" = "ד";
+"scheduleVC.thursdayShort" = "ה";
+"scheduleVC.fridayShort" = "ו";
+"scheduleVC.saturdayShort" = "ש";
+"scheduleVC.sundayShort" = "א";
+
+//MARK: ContextMenu
+"contextMenu.pinButton" = "פין";
+"contextMenu.unpinButton" = "ביטול הצמדה";
+"contextMenu.editButton" = "עריכה";
+"contextMenu.deleteButton" = "מחק";
+
+//MARK: Alert
+"alert.removeTracker.title" = "האם אתה בטוח שאתה רוצה למחוק את הגשש?";
+"alert.removeCategory.title" = "האם קטגוריה זו בהחלט לא נחוצה?";
+"alert.removeCategory.message" = "מחיקת קטגוריה תגרום לאובדן כל העוקבים שלה";
+"alert.cancel" = "ביטול";
+"alert.delete" = "מחק";
+
+//MARK: StatisticVC
+"statisticVC.bestPeriod" = "התקופה הטובה ביותר";
+"statisticVC.perfectDays" = "ימים מושלמים";
+"statisticVC.totalCompletedTrackers" = "עוקבים הושלמו";
+"statisticVC.averageValue" = "ערך ממוצע";

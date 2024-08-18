@@ -1,0 +1,2 @@
+<UIButton; frame = (0 0; 71 33); opaque = NO; tintColor = UIExtendedGrayColorSpace 1 1; backgroundColor = <UIDynamicCatalogColor; name = ypBlue>; layer = <CALayer>>
+   | <UIButtonLabel; frame = (0 6; 71 21); text = 'Фильтры'; opaque = NO; userInteractionEnabled = NO; layer = <_UILabelLayer>>

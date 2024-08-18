@@ -1,0 +1,103 @@
+//MARK: Onboarding
+"onboarding.firstPageTitle" = "Track only what you want";
+"onboarding.secondPageTitle" = "Even if it's not liters of water and yoga";
+"onboarding.continueButton" = "These are technologies!";
+
+//MARK: TabBar
+"tabBar.trackersTabBarTitle" = "Trackers";
+"tabBar.statisticTabBarTitle" = "Statistics";
+
+//MARK: StatisticsVC
+"statisticsVC.navigationTitle" = "Statistics";
+"statisticsVC.emptyStateLabel" = "There is nothing to analyze yet";
+
+//MARK: TrackersVC
+"trackersVC.navigationTitle" = "Trackers";
+"trackersVC.pinnedTrackers" = "Pinned";
+"trackersVC.textFieldPlaceholder" = "Search";
+"trackersVC.cancelButton" = "Cancel";
+"trackersVC.filterButton" = "Filters";
+"trackersVC.nothingFoundLabel" = "Nothing found";
+"trackersVC.emptyStateLabel" = "What will we track?";
+
+//MARK: FiltersVC
+"filtersVC.filtersTitle" = "Filters";
+"filtersVC.allTrackers" = "All trackers";
+"filtersVC.todayTrackers" = "Trackers for today";
+"filtersVC.completed" = "Completed";
+"filtersVC.uncompleted" = "Uncompleted";
+
+//MARK: CreateTrackerVC
+"createTrackerVC.createTrackerLabel" = "Creating a tracker";
+"createTrackerVC.habitLabel" = "Habit";
+"createTrackerVC.unregularEventLabel" = "Unregular event";
+
+//MARK: NewTrackerVC
+"newTrackerVC.newHabitLabel" = "A new habit";
+"newTrackerVC.newUnregularEventLabel" = "New unregular event";
+"newTrackerVC.textFieldPlaceholder" = "Enter the name of the tracker";
+"newTrackerVC.textFieldWarning" = "Limit of 38 characters";
+"newTrackerVC.tableViewCategoryLabel" = "Category";
+"newTrackerVC.tableViewScheduleLabel" = "Schedule";
+"newTrackerVC.cancelButton" = "Cancel";
+"newTrackerVC.createButton" = "Create";
+"newTrackerVC.emojiLabel" = "Emoji";
+"newTrackerVC.colorLabel" = "Color";
+
+//MARK: EditingTrackerVC
+"editingTrackerVC.editTitle" = "Editing Habits";
+"editingTrackerVC.saveButton" = "Save";
+
+//MARK: CategoryVC
+"categoryVC.categoryTitle" = "Category";
+"categoryVC.emptyStateLabel" = "Habits and events can be combined in meaning";
+"categoryVC.addCategoryButton" = "Add a category";
+
+//MARK: EditingCategoryVC
+"editingCategoryVC.editingCategoryTitle" = "Editing a category";
+"editingCategoryVC.doneButton" = "Done";
+
+//MARK: NewCategoryVC
+"newCategoryVC.newCategoryTitle" = "New category";
+"newCategoryVC.textFieldPlaceholder" = "Enter the category name";
+"newCategoryVC.doneButton" = "Done";
+
+//MARK: ScheduleVC
+"scheduleVC.scheduleTitle" = "Schedule";
+"scheduleVC.doneButton" = "Done";
+
+"scheduleVC.monday" = "Monday";
+"scheduleVC.tuesday" = "Tuesday";
+"scheduleVC.wednesday" = "Wednesday";
+"scheduleVC.thursday" = "Thursday";
+"scheduleVC.friday" = "Friday";
+"scheduleVC.saturday" = "Saturday";
+"scheduleVC.sunday" = "Sunday";
+"scheduleVC.everyDay" = "Every day";
+
+"scheduleVC.mondayShort" = "Mon";
+"scheduleVC.tuesdayShort" = "Tue";
+"scheduleVC.wednesdayShort" = "Wed";
+"scheduleVC.thursdayShort" = "Thur";
+"scheduleVC.fridayShort" = "Fri";
+"scheduleVC.saturdayShort" = "Sat";
+"scheduleVC.sundayShort" = "Sun";
+
+//MARK: ContextMenu
+"contextMenu.pinButton" = "Pin";
+"contextMenu.unpinButton" = "Unpin";
+"contextMenu.editButton" = "Edit";
+"contextMenu.deleteButton" = "Delete";
+
+//MARK: Alert
+"alert.removeTracker.title" = "Are you sure you want to delete the tracker?";
+"alert.removeCategory.title" = "Is this category definitely not needed?";
+"alert.removeCategory.message" = "Deleting a category will result in the loss of all its trackers";
+"alert.cancel" = "Cancel";
+"alert.delete" = "Delete";
+
+//MARK: StatisticVC
+"statisticVC.bestPeriod" = "The best period";
+"statisticVC.perfectDays" = "Perfect days";
+"statisticVC.totalCompletedTrackers" = "Trackers completed";
+"statisticVC.averageValue" = "Average value";

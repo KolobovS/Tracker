@@ -1,0 +1,7 @@
+<UIView; frame = (0 0; 393 852); autoresize = W+H; backgroundColor = <UIDynamicCatalogColor; name = ypWhite>; layer = <CALayer>>
+   | <UILabel; frame = (156.333 27; 80.6667 19.3333); text = 'Категория'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   | <UIButton; frame = (20 776; 353 60); opaque = NO; tintColor = <UIDynamicCatalogColor; name = ypWhite>; backgroundColor = <UIDynamicCatalogColor; name = ypBlack>; layer = <CALayer>>
+   |    | <UIButtonLabel; frame = (95.6667 20; 162 20); text = 'Добавить категорию'; opaque = NO; userInteractionEnabled = NO; layer = <_UILabelLayer>>
+   | <UIImageView; frame = (156.667 386; 80 80); opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   | <UILabel; frame = (16 474; 361 28.6667); text = 'Привычки и события можно
+...'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
